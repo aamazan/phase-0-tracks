@@ -13,3 +13,5 @@
 
 * What is a merge conflict?
 * A merge conflict is when your current branch and the branch you want to merge don't have the same commits.
+
+**minor change**
