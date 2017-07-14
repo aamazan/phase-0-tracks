@@ -1,0 +1,24 @@
+section#contact-info {
+	font-size: .8em;	
+}
+
+.job {
+	background-color: #e9e5dc;
+	padding: 10px;
+	margin-bottom: 10px;
+	border-radius: 25px;
+}
+
+.accomp {
+	font-size: .8em;
+}
+
+/* This is the pseudo class selector*/
+h1#resume-title::first-letter {
+	color: red;
+}
+
+/* This is the element within an element selection */
+section#personal-objective p {
+	font-style: italic;
+}
